@@ -13,16 +13,16 @@ Skills: C/C++/C#/Java/Solidity
 ### My coding journey 🚀
 This is a short overview of all of my github repositories.
 ## High school 🏫
-Most of my first projects were done in C++, such as my (https://github.com/JosipKuci/Space_Invaders)[Space Invaders clone] and (https://github.com/JosipKuci/Matrix-falling-letters)[Matrix falling letters screensaver]. While I am not proud of the way I structured my code back then, I think it shows how much I have improved in recent years.
+Most of my first projects were done in C++, such as my [Space Invaders clone](https://github.com/JosipKuci/Space_Invaders) and [Matrix falling letters screensaver](https://github.com/JosipKuci/Matrix-falling-letters). While I am not proud of the way I structured my code back then, I think it shows how much I have improved in recent years.
 
-For my high school thesis I did a (https://github.com/JosipKuci/Bike-Tourism-App-Cikilic)[Bike tourism app "Cikilic"], which was a collection of summaries of bike routes in the Osijek-Baranja county. While the UI left a lot to be desired, I learned a lot about Google Maps API-s as well as object-oriented programming in general.
+For my high school thesis I did a [Bike tourism app "Cikilic"](https://github.com/JosipKuci/Bike-Tourism-App-Cikilic), which was a collection of summaries of bike routes in the Osijek-Baranja county. While the UI left a lot to be desired, I learned a lot about Google Maps API-s as well as object-oriented programming in general.
 
 ## University 🏛️
-The past few years I mostly did smaller learning projects such as the (https://github.com/JosipKuci/Johnson-Counter)[Johnson Counter] and (https://github.com/JosipKuci/Chaser-LED)[Chaser LED] written in VHDL for the E2LP development board
+The past few years I mostly did smaller learning projects such as the [Johnson Counter](https://github.com/JosipKuci/Johnson-Counter) and [Chaser LED](https://github.com/JosipKuci/Chaser-LED) written in VHDL for the E2LP development board
 
-I also did a few (https://github.com/JosipKuci/A-collection-of-small-Solidity-projects)[Solidity projects] so that I could get to know the Blockchain and Web3 better.
+I also did a few [Solidity projects](https://github.com/JosipKuci/A-collection-of-small-Solidity-projects) so that I could get to know the Blockchain and Web3 better.
 
-After making a simple bootloader in assembly, I became to be interested in hardware emulation, so I made a (https://github.com/JosipKuci/Chip8-emulator)[Chip-8 emulator] in C. 
+After making a simple bootloader in assembly, I became to be interested in hardware emulation, so I made a [Chip-8 emulator](https://github.com/JosipKuci/Chip8-emulator) in C. 
 I consider it my best project to date because I applied all my current knowledge of project structuring and memory manipulation, I also enjoyed making it very much 😁.
 Currently I am planning on optimising it for each game that uses it and adding UI as well as controller support.
 
