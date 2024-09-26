@@ -11,7 +11,7 @@ Skills: C/C++/C#/Java/Solidity
 - 📫 How to reach me: josipsimunkuci@gmail.com
 
 # My coding journey 🚀
-This is a short overview of all of my github repositories.
+This is a short overview of some of my github repositories.
 ## High school 🏫
 Most of my first projects were done in C++, such as my [Space Invaders clone](https://github.com/JosipKuci/Space_Invaders) and [Matrix falling letters screensaver](https://github.com/JosipKuci/Matrix-falling-letters). While I am not proud of the way I structured my code back then, I think it shows how much I have improved in recent years.
 
