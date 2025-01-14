@@ -27,7 +27,7 @@ I consider it my best project to date because I applied all my current knowledge
 Currently I am planning on optimising it for each game that uses it and adding UI as well as controller support.
 
 ## What's next?
-For my Bachelor thesis I am making a Gameboy emulator because I think its more complex nature with timers, opcodes and the PPU proves as a good challenge and will help broaden my knowledge of emulation.
+For my Bachelor thesis I am making a [Gameboy emulator](https://github.com/JosipKuci/Gameboy-WIP) because I think its more complex nature with timers, opcodes and the PPU proves as a good challenge and will help broaden my knowledge of emulation.
 
 I am also currently working on a simple RTOS for the STM32 Nucleo F-411RE in hopes of learning about driver and kernel development and managing threads, as I would like to one day work on embedded Linux systems.
 
