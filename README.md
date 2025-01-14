@@ -22,7 +22,7 @@ The past few years I mostly did smaller learning projects such as the [Johnson C
 
 I also did a few [Solidity projects](https://github.com/JosipKuci/A-collection-of-small-Solidity-projects) so that I could get to know the Blockchain and Web3 better.
 
-After making a simple bootloader in assembly, I became interested in hardware emulation, so I made a [Chip-8 emulator](https://github.com/JosipKuci/Chip8-emulator) in C. 
+I became interested in hardware emulation, so I made a [Chip-8 emulator](https://github.com/JosipKuci/Chip8-emulator) in C. 
 I consider it my best project to date because I applied all my current knowledge of project structuring and memory manipulation, I also enjoyed making it very much 😁.
 Currently I am planning on optimising it for each game that uses it and adding UI as well as controller support.
 
