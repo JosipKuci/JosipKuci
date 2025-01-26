@@ -26,6 +26,8 @@ I became interested in hardware emulation, so I made a [Chip-8 emulator](https:/
 I consider it my best project to date because I applied all my current knowledge of project structuring and memory manipulation, I also enjoyed making it very much 😁.
 Currently I am planning on optimising it for each game that uses it and adding UI as well as controller support.
 
+While getting to know the stm32 platform, I made a simple [Telegraph over UART](https://github.com/JosipKuci/STM32-Telegraph-over-UART)
+
 ## What's next?
 For my Bachelor thesis I am making a [Gameboy emulator](https://github.com/JosipKuci/Gameboy-WIP) because I think its more complex nature with timers, opcodes and the PPU proves as a good challenge and will help broaden my knowledge of emulation.
 
